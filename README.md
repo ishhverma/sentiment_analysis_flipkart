@@ -190,9 +190,3 @@ streamlit run app.py
 **Ishhverma**  
 💼 Data Scientist | ML Enthusiast  
 📧 [ishuverma1511@gmail.com ]  
-<div class="sentiment-dashboard">
-    <div class="dashboard-container">
-        <div class="header-section">
-            <h1 class="header-title">📊 Sentiment Analysis Dashboard</h1>
-            <p class="header-subtitle">Real-time text sentiment analysis with advanced visualization</p>
-        </div>
